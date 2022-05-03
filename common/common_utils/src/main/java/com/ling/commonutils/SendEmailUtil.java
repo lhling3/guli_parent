@@ -6,8 +6,8 @@ import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 public class SendEmailUtil {
-    public static String myEmailAccount = "2574064135@qq.com";//*发送邮件的账号
-    public static String myEmailPassword = "kjyuckhgodmrebhi";//*第三方邮使用的授权码（下面会说到）
+    public static String myEmailAccount = "******@qq.com";//*发送邮件的账号
+    public static String myEmailPassword = "***8****i";//*第三方邮使用的授权码（下面会说到）
      // 网易163邮箱的 SMTP 服务器地址为: smtp.163.com
      // QQ邮箱的 SMTP 服务器地址为: smtp.qq.com
     public static String myEmailSMTPHost = "smtp.qq.com";
